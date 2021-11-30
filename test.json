@@ -1,0 +1,11 @@
+{
+  "flagA": {
+    "customer1": false,
+    "customer2": true
+  },
+  
+  "flagB": {
+    "customer1": true,
+    "customer2": false
+  }
+}
